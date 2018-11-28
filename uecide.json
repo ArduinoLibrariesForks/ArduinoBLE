@@ -1,0 +1,25 @@
+{
+    "name": "ArduinoBLE",
+    "provides": "ArduinoBLE.h",
+    "description": "[BETA] Enables BLE connectivity on the Arduino MKR WiFi 1010 and Arduino UNO WiFi Rev.2.",
+    "version": "0.1.0",
+    "maintainer": "Arduino <info@arduino.cc>",
+    "category": "Communications",
+    "subcategory": "Bluetooth",
+    "family": [
+        "arm-sam",
+        "avr"
+    ],
+    "core": [
+        "arduino-sam",
+        "arduino"
+    ],
+    "install": {
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "src": "/"
+    },
+    "license": "LICENSE",
+    "readme": "README.md"
+}
