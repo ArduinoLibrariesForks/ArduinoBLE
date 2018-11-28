@@ -5,7 +5,7 @@
     "version": "0.1.0",
     "maintainer": "Arduino <info@arduino.cc>",
     "category": "Communications",
-    "subcategory": "Bluetooth",
+    "subcategory": "Wireless",
     "family": [
         "arm-sam",
         "avr"
