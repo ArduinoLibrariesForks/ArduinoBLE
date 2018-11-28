@@ -7,11 +7,11 @@
     "category": "Communications",
     "subcategory": "Wireless",
     "family": [
-        "arm-sam",
+        "arm-samd",
         "avr"
     ],
     "core": [
-        "arduino-sam",
+        "arduino-samd",
         "arduino"
     ],
     "install": {
